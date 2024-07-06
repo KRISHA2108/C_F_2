@@ -10,18 +10,18 @@ This repository contains screenshots of a mobile application with the following 
 ### Home Page
 The home page of the mobile application showcases various product categories and featured items. Users can navigate through different sections and explore the available products.
 
-![Home Page](path/to/your/IMG-20240706-WA0017.jpg)
+<img src="https://github.com/KRISHA2108/C_F_2/assets/143988795/f8bb8c0a-1b3d-4bbb-93b4-a6e564f53731">
+
 
 ### Detail Page
 The detail page provides comprehensive information about a specific product. It includes the product's name, category, price, rating, stock availability, discount percentage, SKU, weight, dimensions, warranty information, shipping details, availability status, return policy, and minimum order quantity.
 
-![Detail Page](path/to/your/IMG-20240706-WA0016.jpg)
+<img src="https://github.com/KRISHA2108/C_F_2/assets/143988795/af135454-78cf-4c9d-8ee8-5dacc8ffb75b">
 
 ### Search Page
 The search page allows users to search for products within the application. It features a search bar where users can input their queries to find specific items.
 
-![Search Page](path/to/your/IMG-20240706-WA0018.jpg)
-
+<img src="https://github.com/KRISHA2108/C_F_2/assets/143988795/1f589ad8-1279-459f-baa8-1688c6c3d78f">
 ## How to Use
 
 1. **Home Page**: Navigate through the various categories and featured items to explore the products available in the application.
